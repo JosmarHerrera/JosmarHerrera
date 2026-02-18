@@ -1,13 +1,17 @@
 # 👋 Hola, soy Josmar Caleb Herrera Francisco
 
 💻 **Full Stack Developer (.NET & JavaScript)**
-📍 México | 🌎 Abierto a oportunidades remotas
+📍 México | 🌎 Abierto a oportunidades remotas | ⭐Si lo puedes imaginar, lo puedes programar⭐
 
 ---
 
 ## 👨‍💻 Sobre Mí
 
-Desarrollador de Software Full Stack con experiencia en el desarrollo de aplicaciones robustas tanto en **Backend (.NET & PHP)** como en **Frontend**. Especializado en la creación de sistemas orientados a datos, diseño de bases de datos optimizadas y arquitecturas escalables. He participado en proyectos internacionales en **LATAM y Europa**, colaborando en equipos multidisciplinarios para entregar soluciones tecnológicas de alto impacto.
+Desarrollador de Software Full Stack con experiencia en el diseño y desarrollo de aplicaciones web robustas, orientadas a la optimización de procesos y gestión eficiente de datos. Especializado en Backend con .NET, PHP y Java (Spring Boot), así como en la construcción de interfaces dinámicas y funcionales en Frontend.
+
+Cuento con sólida experiencia en arquitectura MVC, diseño de bases de datos relacionales optimizadas, implementación de autenticación segura con control de roles y construcción de sistemas administrativos completos. He desarrollado módulos como gestión de usuarios, inventarios, finanzas, reportes dinámicos, paneles administrativos y automatización de procesos empresariales.
+
+Me enfoco en crear soluciones escalables, bien estructuradas y alineadas a las necesidades del negocio, combinando lógica sólida, buenas prácticas de desarrollo y diseño profesional orientado a resultados.
 
 ---
 
@@ -24,8 +28,7 @@ Desarrollador de Software Full Stack con experiencia en el desarrollo de aplicac
 
 * **C# / .NET**
 * **PHP**
-* **JavaScript** (Node.js / Client-side)
-* Desarrollo de APIs RESTful
+* **JavaScript** (Node.js)
 
 ---
 
@@ -53,7 +56,7 @@ Desarrollador de Software Full Stack con experiencia en el desarrollo de aplicac
 
 * **MySQL**
 * **PostgreSQL**
-* **SQL Server** (T-SQL, Procedimientos Almacenados)
+* **SQL Server**
 
 ---
 
@@ -65,12 +68,12 @@ Desarrollador de Software Full Stack con experiencia en el desarrollo de aplicac
 
 * Git / GitHub
 * Postman
-* JIRA
+* Spring Tool Suite 4
 * Visual Studio / VS Code
 
 ---
 
-## 💼 ¿Qué hago?
+## 💼 ¿Qué hago cómo desarrollador?
 
 * Diseño y desarrollo de **aplicaciones Full Stack** modernas.
 * Optimización de consultas y arquitectura de **bases de datos relacionales**.
@@ -81,16 +84,17 @@ Desarrollador de Software Full Stack con experiencia en el desarrollo de aplicac
 
 ## 📊 Estadísticas de GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosmarHerrera&layout=compact)
 
 ---
 
 ## 📫 Conéctate conmigo
 
-* 💼 LinkedIn: [linkedin.com/in/leonardozamudiog](https://www.linkedin.com/in/leonardozamudiog)
-* 📧 Email: [leonardozamusioglez@gmail.com](mailto:leonardozamusioglez@gmail.com)
+* 💼 LinkedIn: [linkedin.com/in/leonardozamudiog](https://www.linkedin.com/in/josmar-caleb-herrera-francisco-0301632bb/)
+* 📧 Email: [leonardozamusioglez@gmail.com](mailto:josmarcal58@gmail.com)
 
 ---
 
 
 ⭐ *Enfocado en construir soluciones Full Stack limpias, confiables y escalables.*
+
