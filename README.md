@@ -1,7 +1,7 @@
 # 👋 Hola, soy Josmar Caleb Herrera Francisco
 
 💻 **Full Stack Developer (.NET & JavaScript)**
-📍 México | 🌎 Abierto a oportunidades remotas | ⭐Si lo puedes imaginar, lo puedes programar⭐
+📍 México | 🌎 Abierto a oportunidades remotas | ⭐"La mejor forma de predecir el futuro es programándolo.⭐
 
 ---
 
@@ -84,7 +84,7 @@ Me enfoco en crear soluciones escalables, bien estructuradas y alineadas a las n
 
 ## 📊 Estadísticas de GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosmarHerrera&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosmarHerrera&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
@@ -97,6 +97,7 @@ Me enfoco en crear soluciones escalables, bien estructuradas y alineadas a las n
 
 
 ⭐ *Enfocado en construir soluciones Full Stack limpias, confiables y escalables.*
+
 
 
 
