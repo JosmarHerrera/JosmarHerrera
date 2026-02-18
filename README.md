@@ -90,11 +90,12 @@ Me enfoco en crear soluciones escalables, bien estructuradas y alineadas a las n
 
 ## 📫 Conéctate conmigo
 
-* 💼 LinkedIn: [linkedin.com/in/leonardozamudiog](https://www.linkedin.com/in/josmar-caleb-herrera-francisco-0301632bb/)
+* 💼 LinkedIn: [linkedin.com/in/josmar](https://www.linkedin.com/in/josmar-caleb-herrera-francisco-0301632bb/)
 * 📧 Email: [leonardozamusioglez@gmail.com](mailto:josmarcal58@gmail.com)
 
 ---
 
 
 ⭐ *Enfocado en construir soluciones Full Stack limpias, confiables y escalables.*
+
 
