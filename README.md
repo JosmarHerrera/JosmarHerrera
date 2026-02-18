@@ -1,7 +1,7 @@
 # 👋 Hola, soy Josmar Caleb Herrera Francisco
 
 💻 **Full Stack Developer (.NET & JavaScript)**
-📍 México | 🌎 Abierto a oportunidades remotas | ⭐"La mejor forma de predecir el futuro es programándolo.⭐
+📍 México | 🌎 Abierto a oportunidades remotas | ⭐La mejor forma de predecir el futuro es programándolo.⭐
 
 ---
 
@@ -91,6 +91,7 @@ Me enfoco en crear soluciones escalables, bien estructuradas y alineadas a las n
 
 
 ⭐ *No solo escribo código, diseño experiencias digitales.*
+
 
 
 
