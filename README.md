@@ -84,7 +84,7 @@ Me enfoco en crear soluciones escalables, bien estructuradas y alineadas a las n
 
 ## 📊 Estadísticas de GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosmarHerrera&layout=compact&theme=radical&cache_seconds=1800)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=JosmarHerrera&layout=compact&theme=radical&cache_seconds=1800](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JosmarHerrera&layout=compact))
 
 ---
 
@@ -97,6 +97,7 @@ Me enfoco en crear soluciones escalables, bien estructuradas y alineadas a las n
 
 
 ⭐ *Enfocado en construir soluciones Full Stack limpias, confiables y escalables.*
+
 
 
 
