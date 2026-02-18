@@ -98,7 +98,8 @@ Me enfoco en crear soluciones escalables, bien estructuradas y alineadas a las n
 ---
 
 
-⭐ *Enfocado en construir soluciones Full Stack limpias, confiables y escalables.*
+⭐ *No solo escribo código, diseño experiencias digitales.*
+
 
 
 
