@@ -92,4 +92,5 @@ Desarrollador de Software Full Stack con experiencia en el desarrollo de aplicac
 
 ---
 
+
 ⭐ *Enfocado en construir soluciones Full Stack limpias, confiables y escalables.*
